@@ -1,3 +1,3 @@
 # infrotrixs
 
-A simple ToDoList 
+A simple ToDo list 
